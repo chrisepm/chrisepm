@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christian Pérez</h1>
-<h3 align="center">A passionate Software Engineer from Dominican Republic 🇩🇴</h3>
+<p align="center">
+  <img src="https://www.chrisepm.com/assets/images/cover.webp" />
+</p>
+<h3 align="center">A passionate Software Engineer from Dominican Republic <img style="width: 15px; padding-bottom: 5px;" src="https://www.chrisepm.com/assets/images/DR-flag.webp" alt="Dominican Republic" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisepm&label=Profile%20views&color=0e75b6&style=flat" alt="chrisepm" /> </p>
 
