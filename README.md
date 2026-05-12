@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Micro-frontends**
 
-- 👨‍💻 All of my projects are available at [chrisepm.com](chrisepm.com)
+- 👨‍💻 All of my projects are available at [chrisepm.com](https://chrisepm.com)
 
-- 📝 I regularly write articles on [chrisepm.com/blogs](chrisepm.com/blogs)
+- 📝 I regularly write articles on [chrisepm.com/blogs](https://chrisepm.com/blogs)
 
 - 💬 Ask me about **Everything**
 
 - 📫 How to reach me **christianepm@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/chrisepm](linkedin.com/chrisepm)
+- 📄 Know about my experiences [linkedin.com/chrisepm](https://linkedin.com/in/chrisepm)
 
 <h3 align="left">Connect with me:</h3>
 <table>
